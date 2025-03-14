@@ -1,5 +1,5 @@
 
-## 🎨 Sena Gülübol's Portfolio
+# 🎨 Sena Gülübol's Portfolio
 
 This is a simple portfolio webpage created using HTML. It showcases sample projects with dummy data for demonstration purposes.
 
