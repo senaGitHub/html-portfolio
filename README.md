@@ -26,4 +26,4 @@ cd html-portolio
 ````
 
 ## LICENSE
-The theme is available as open source under the terms of the MIT License.
+This project is licensed under CC0 (Public Domain) – You are free to use or modify it.
