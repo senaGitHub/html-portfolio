@@ -3,7 +3,7 @@
 
 This is a simple portfolio webpage created using HTML. It showcases sample projects with dummy data for demonstration purposes.
 
-## 📌 Project Description
+## Project Description
 
 This project is designed as a basic portfolio layout and includes the following pages:
 
@@ -13,9 +13,9 @@ This project is designed as a basic portfolio layout and includes the following 
 * About Me: A placeholder page with basic information.
 * Contact Me: A dummy contact page with sample details.
   
-🚀 Note: This project is built with placeholder content and does not include real data or functionality.
+ Note: This project is built with placeholder content and does not include real data or functionality.
 
-## 🛠 Setup & Usage?
+## Setup & Usage?
 1️⃣ Clone the repository:
 ````bash 
 git clone https://github.com/senaGitHub/html-portfolio.git
